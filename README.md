@@ -15,7 +15,7 @@
 
 | Item | Detalhe |
 |------|---------|
-| 🔗 URL Base | https://diagnostico-diabetes-ml.onrender.com |
+| 🔗 URL Base | https://diagnostico-diabetes-ml-1.onrender.com |
 | ☁️ Plataforma | Render |
 | 📍 Região | Oregon (US West) |
 | 🐳 Ambiente | Docker |
