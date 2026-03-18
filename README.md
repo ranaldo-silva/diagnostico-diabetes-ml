@@ -469,6 +469,8 @@ scikit-learn
 |------|----|
 | Ranaldo José da Silva | RM 559210 |
 | Otoniel Arantes Barbado | RM 560112 |
+| Rafael Terra Teodoro | RM 560955 |
+| Enzo Elia Tarraga | RM 560901 |
 
 - GitHub: [@ranaldo-silva](https://github.com/ranaldo-silva)
 - Repositório: https://github.com/ranaldo-silva/diagnostico-diabetes-ml
